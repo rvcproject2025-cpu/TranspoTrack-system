@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"its_trip_db"},
+{"type":"table","name":"monitoring","database":"its_trip_db","data":
+[
+
+]
+}
+]
